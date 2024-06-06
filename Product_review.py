@@ -35,7 +35,7 @@ counting_pos_and_negs()
 
 def summary():
     for reviews in python_reviews:
-        short_end = reviews[0:30]
+        short_end = reviews[0:31]
         
         print(short_end + "...")
 
